@@ -15,8 +15,5 @@ WARNUNG: Aufgrund der inflationären Nutzung von Jugendsprache in Deutschland, k
 4. Jetzt wisst ihr, was er euch mitteilen wollte!
 
 ## FAQ
-Q:
-**Hi ich bin defihnitif nicht raphael und hab ess grad versuxht und es hat nicht geklapt was ist da falsch?**
-
-A:
-*Das liegt daran, dass du, ja genau du Raphael, es selbst nicht nutzen kannst!*
+Q: **Hi ich bin defihnitif nicht raphael und hab ess grad versuxht und es hat nicht geklapt was ist da falsch?**
+A: *Das liegt daran, dass du, ja genau du Raphael, es selbst nicht nutzen kannst!*
