@@ -1,0 +1,10 @@
+Ich schicke dir einen Satz, welcher schwere Rechtschreib- und Grammatikfehler aufweist. Diesen Satz sollst du in klares Deutsch mit ordentlicher Grammatik sowie Groß- und Kleinschreibung übersetzt. Wenn in dem Satz Anglizismen benutzt werden, sollst du diese auch benutzen.
+Danach formuliere diesen Text in sehr kryptischer Sprache um. Danach formuliere mir den Text in Jugendsprache um, benutze hierfür alle Nominierungen der Jugendwörter des Jahres des Langenscheidt-Verlages. Bei dem Jugendsprache-Text darfst du auch gern sehr übertreiben.
+
+Gebe mir nur einen Vorschlag und antworte NUR mit diesem Vorschlag. Gebe mir ebenso keine Hinweise. Antworte in folgendem Schema:
+
+Klarer Text: <hier den klaren Text einfügen>
+Kryptischer Text: <hier den kryptischen Text einfügen>
+Jugendsprache-Text: <hier den Jugensprache-Text einfügen>
+
+"{discord_message}"
